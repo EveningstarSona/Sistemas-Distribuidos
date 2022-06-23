@@ -6,4 +6,5 @@
 - Aprender conceitos gerais de sistemas de software para processamento distribuído e as técnicas utilizadas para suas implementações em ambientes de multiprocessadores fracamente acoplados.
 
 ### Colaborador
-- Carlos André Costa Santana
+- Carlos André Costa Santana<br/> 
+[https://github.com/solraCSantana/Sistemas-Distribuidos](https://github.com/solraCSantana/Sistemas-Distribuidos)
